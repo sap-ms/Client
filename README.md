@@ -1,2 +1,2 @@
 # Client
-The web and desktop client that communicates with the servers
+The web and desktop client that communicates with the servers.
